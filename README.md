@@ -1,2 +1,15 @@
-# IronMan
-# New zealand order system
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
